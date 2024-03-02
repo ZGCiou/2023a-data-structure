@@ -1,0 +1,7 @@
+Polynomial 1: 98x^7 + 65x^4 + 32x^1
+Polynomial 2: -78x^9 - 45x^6 - 12x^3
+Addition: -78x^9 + 98x^7 - 45x^6 + 65x^4 - 12x^3 + 32x^1
+Subtraction: 78x^9 + 98x^7 + 45x^6 + 65x^4 + 12x^3 + 32x^1
+Multiplication: -7644x^16 - 9480x^13 - 6597x^10 - 2220x^7 - 384x^4
+Evaluation of Polynomial 1 at x = 3 is: 219687
+Evaluation of Polynomial 2 at x = 3 is: -1568403

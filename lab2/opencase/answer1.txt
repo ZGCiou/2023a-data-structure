@@ -1,0 +1,7 @@
+Polynomial 1: 3x^2 - 5x^1 + 2x^0
+Polynomial 2: 4x^3 + 2x^1 + 7x^0
+Addition: 4x^3 + 3x^2 - 3x^1 + 9x^0
+Subtraction: -4x^3 + 3x^2 - 7x^1 - 5x^0
+Multiplication: 12x^5 - 20x^4 + 14x^3 + 11x^2 - 31x^1 + 14x^0
+Evaluation of Polynomial 1 at x = 2 is: 4
+Evaluation of Polynomial 2 at x = 2 is: 43

@@ -1,0 +1,214 @@
+Push down 0 1
+Push down 1 1
+Push down 2 1
+Push down 3 1
+Push down 4 1
+Push down 5 1
+Push down 6 1
+Push down 7 1
+Push right 7 2
+Push right 7 3
+Push right 7 4
+Push right 7 5
+Push right 7 6
+Push right 7 7
+Push right 7 8
+Push right 7 9
+Pop right 7 8
+Pop right 7 7
+Push down 8 7
+Push down 9 7
+Push right 9 8
+Push right 9 9
+Push right 9 10
+Push right 9 11
+Push down 10 11
+Push down 11 11
+Push right 11 12
+Push right 11 13
+Push down 12 13
+Push down 13 13
+Push right 13 14
+Push right 13 15
+Push right 13 16
+Push right 13 17
+Push right 13 18
+Push right 13 19
+Push right 13 20
+Push right 13 21
+Push down 14 21
+Push down 15 21
+Pop down 14 21
+Pop down 13 21
+Pop right 13 20
+Pop right 13 19
+Push down 14 19
+Push down 15 19
+Push left 15 18
+Push left 15 17
+Pop left 15 18
+Pop left 15 19
+Pop down 14 19
+Pop down 13 19
+Pop right 13 18
+Pop right 13 17
+Pop right 13 16
+Pop right 13 15
+Push down 14 15
+Push down 15 15
+Pop down 14 15
+Pop down 13 15
+Push up 12 15
+Push up 11 15
+Push up 10 15
+Push up 9 15
+Push right 9 16
+Push right 9 17
+Push right 9 18
+Push right 9 19
+Push up 8 19
+Push up 7 19
+Push right 7 20
+Push right 7 21
+Push down 8 21
+Push down 9 21
+Pop down 8 21
+Pop down 7 21
+Push up 6 21
+Push up 5 21
+Pop up 6 21
+Pop up 7 21
+Pop right 7 20
+Pop right 7 19
+Push left 7 18
+Push left 7 17
+Pop left 7 18
+Pop left 7 19
+Push up 6 19
+Push up 5 19
+Push left 5 18
+Push left 5 17
+Push up 4 17
+Push up 3 17
+Push right 3 18
+Push right 3 19
+Push up 2 19
+Push up 1 19
+Push right 1 20
+Push right 1 21
+Push down 2 21
+Push down 3 21
+Pop down 2 21
+Pop down 1 21
+Pop right 1 20
+Pop right 1 19
+Pop up 2 19
+Pop up 3 19
+Pop right 3 18
+Pop right 3 17
+Push left 3 16
+Push left 3 15
+Push down 4 15
+Push down 5 15
+Pop down 4 15
+Pop down 3 15
+Pop left 3 16
+Pop left 3 17
+Push up 2 17
+Push up 1 17
+Pop up 2 17
+Pop up 3 17
+Pop up 4 17
+Pop up 5 17
+Pop left 5 18
+Pop left 5 19
+Pop up 6 19
+Pop up 7 19
+Pop up 8 19
+Pop up 9 19
+Pop right 9 18
+Pop right 9 17
+Push down 10 17
+Push down 11 17
+Push right 11 18
+Push right 11 19
+Push right 11 20
+Push right 11 21
+Pop right 11 20
+Pop right 11 19
+Pop right 11 18
+Pop right 11 17
+Pop down 10 17
+Pop down 9 17
+Pop right 9 16
+Pop right 9 15
+Pop up 10 15
+Pop up 11 15
+Pop up 12 15
+Pop up 13 15
+Pop right 13 14
+Pop right 13 13
+Push down 14 13
+Push down 15 13
+Push down 16 13
+Push down 17 13
+Push right 17 14
+Push right 17 15
+Push right 17 16
+Push right 17 17
+Push right 17 18
+Push right 17 19
+Push right 17 20
+Push right 17 21
+Pop right 17 20
+Pop right 17 19
+Pop right 17 18
+Pop right 17 17
+Pop right 17 16
+Pop right 17 15
+Push down 18 15
+Push down 19 15
+Pop down 18 15
+Pop down 17 15
+Pop right 17 14
+Pop right 17 13
+Push down 18 13
+Push down 19 13
+Push down 20 13
+Push down 21 13
+Push right 21 14
+Push right 21 15
+Push right 21 16
+Push right 21 17
+Push right 21 18
+Push right 21 19
+Push up 20 19
+Push up 19 19
+Push right 19 20
+Push right 19 21
+Push down 20 21
+Push down 21 21
+Push down 22 21
+#+#####################
+#+#.........#...#.#...#
+#+#######.###.###.#.#.#
+#+#...#...#...#.....#.#
+#+###.###.#.###.#.#####
+#+#.#.#.......#.#...#.#
+#+#.#.#####.#######.#.#
+#+++++++..#.#...#.....#
+#.###.#+###.#.#####.#.#
+#.#...#+++++#.#.....#.#
+#.###.#####+#.#.#.#####
+#.#.#.#....+++#.#.....#
+###.#.#.#.###+#.#######
+#.#...#.#.#..+........#
+#.###.#.#####+#.###.#.#
+#...#.#.#...#+#.#...#.#
+#.#####.#.#.#+#########
+#.......#.#..+........#
+#.#####.#####+#.#######
+#...#.#.#.#..+#.#.#+++#
+#.###.###.###+###.#+#+#
+#...#........+++++++#+#
+#####################+#

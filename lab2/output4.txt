@@ -1,0 +1,7 @@
+Polynomial 1: -8x^7 - 9x^4 - 5x^1
+Polynomial 2: 7x^7 + 3x^4 + 2x^1
+Addition: -1x^7 - 6x^4 - 3x^1
+Subtraction: -15x^7 - 12x^4 - 7x^1
+Multiplication: -56x^14 - 87x^11 - 78x^8 - 33x^5 - 10x^2
+Evaluation of Polynomial 1 at x = 3 is: -18240
+Evaluation of Polynomial 2 at x = 3 is: 15558

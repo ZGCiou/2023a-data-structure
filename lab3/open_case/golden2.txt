@@ -1,0 +1,74 @@
+Push down 0 1
+Push down 1 1
+Push down 2 1
+Push down 3 1
+Push down 4 1
+Push down 5 1
+Push right 5 2
+Push right 5 3
+Push up 4 3
+Push up 3 3
+Push right 3 4
+Push right 3 5
+Push down 4 5
+Push down 5 5
+Push right 5 6
+Push right 5 7
+Push right 5 8
+Push right 5 9
+Pop right 5 8
+Pop right 5 7
+Push down 6 7
+Push down 7 7
+Push right 7 8
+Push right 7 9
+Push right 7 10
+Push right 7 11
+Push right 7 12
+Push right 7 13
+Push up 6 13
+Push up 5 13
+Push left 5 12
+Push left 5 11
+Pop left 5 12
+Pop left 5 13
+Push up 4 13
+Push up 3 13
+Push left 3 12
+Push left 3 11
+Pop left 3 12
+Pop left 3 13
+Pop up 4 13
+Pop up 5 13
+Pop up 6 13
+Pop up 7 13
+Pop right 7 12
+Pop right 7 11
+Push down 8 11
+Push down 9 11
+Push right 9 12
+Push right 9 13
+Pop right 9 12
+Pop right 9 11
+Push down 10 11
+Push down 11 11
+Push right 11 12
+Push right 11 13
+Push down 12 13
+Push down 13 13
+Push down 14 13
+#+#############
+#+#...........#
+#+###.#########
+#+#+++#...#...#
+#+#+#+#.#####.#
+#+++#+++..#...#
+#.#####+#####.#
+#.....#+++++..#
+#.###.#.###+###
+#...#.#...#+..#
+#.#####.###+###
+#...#.....#+++#
+#.#.###.###.#+#
+#.#.#.....#.#+#
+#############+#

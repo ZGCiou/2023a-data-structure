@@ -1,0 +1,12 @@
+Push down 0 1
+Push down 1 1
+Push down 2 1
+Push down 3 1
+Push right 3 2
+Push right 3 3
+Push down 4 3
+#+###
+#+#.#
+#+#.#
+#+++#
+###+#

@@ -1,0 +1,7 @@
+Polynomial 1: 36x^6 + 12x^4 + 54x^2
+Polynomial 2: 54x^5 + 78x^3 + 96x^1
+Addition: 36x^6 + 54x^5 + 12x^4 + 78x^3 + 54x^2 + 96x^1
+Subtraction: 36x^6 - 54x^5 + 12x^4 - 78x^3 + 54x^2 - 96x^1
+Multiplication: 1944x^11 + 3456x^9 + 7308x^7 + 5364x^5 + 5184x^3
+Evaluation of Polynomial 1 at x = 4 is: 151392
+Evaluation of Polynomial 2 at x = 4 is: 60672

@@ -1,0 +1,7 @@
+Polynomial 1: 31x^2 + 18x^1 - 6x^0
+Polynomial 2: -7x^3 - 9x^1 + 14x^0
+Addition: -7x^3 + 31x^2 + 9x^1 + 8x^0
+Subtraction: 7x^3 + 31x^2 + 27x^1 - 20x^0
+Multiplication: -217x^5 - 126x^4 - 237x^3 + 272x^2 + 306x^1 - 84x^0
+Evaluation of Polynomial 1 at x = 10 is: 3274
+Evaluation of Polynomial 2 at x = 10 is: -7076
